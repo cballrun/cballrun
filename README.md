@@ -1,4 +1,10 @@
-### Hi there 👋
+# Current Projects
+
+## ChessMeito
+### Mobile chess puzzles drawn from real matches
+
+## Game Drive
+### Social media gaming platform designed to translate users' skills from their controller to their careers
 
 <!--
 **cballrun/cballrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
