@@ -1,4 +1,4 @@
-# Current Projects
+# Recent Projects
 
 ## ChessMeito
 ### Mobile chess puzzles drawn from real matches
