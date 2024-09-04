@@ -8,10 +8,15 @@
 * Angler-centric weather forecasts via National Weather Service API, including custom-built calculations for lunar phase, sunrise/sunset times, and first/last light times
 * Custom database of over 10,000 marinas, bait shops, and boat ramps along the US coastline, built utilizing web scraping
 * React Native frontend hosted on App Store & Play Store
-* Rails/GraphQL backend hosted on AWS  
+* Rails/GraphQL backend hosted on AWS
+
+<img src="https://github.com/user-attachments/assets/3813009c-1251-48f2-8012-641dcbc0d3d0" height="500px"> <img src="https://github.com/user-attachments/assets/7f1dba03-9a92-4fdd-a418-322b266f63f3" height="500px">
+
+<img src="https://github.com/user-attachments/assets/1db8eb44-f031-4f49-8ce7-f69a19f9810a" height="500px"> <img src="https://github.com/user-attachments/assets/24a285b4-52f1-4125-9929-3d78dd330d74" height="500px">
 
 ## Chessmeito
-### Chess puzzles drawn from actual professional matches
+### Chess puzzles drawn from actual professional matches!
+
 
 * Contracted for complete overhaul of UI, hosting architecture, & subscription architecture
 * React Native frontend hosted on App Store & Play Store
