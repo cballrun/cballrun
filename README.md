@@ -10,7 +10,7 @@
 * React Native frontend hosted on App Store & Play Store
 * Rails/GraphQL backend hosted on AWS
 
-<img src="https://github.com/user-attachments/assets/3813009c-1251-48f2-8012-641dcbc0d3d0" height="500px"> <img src="https://github.com/user-attachments/assets/7f1dba03-9a92-4fdd-a418-322b266f63f3" height="500px"> <img src="https://github.com/user-attachments/assets/24a285b4-52f1-4125-9929-3d78dd330d74" height="500px">
+<img src="https://github.com/user-attachments/assets/3813009c-1251-48f2-8012-641dcbc0d3d0" height="537px"> <img src="https://github.com/user-attachments/assets/7f1dba03-9a92-4fdd-a418-322b266f63f3" height="537px"> <img src="https://github.com/user-attachments/assets/24a285b4-52f1-4125-9929-3d78dd330d74" height="537px">
 
 ## Chessmeito
 ### Chess puzzles drawn from actual professional matches!
