@@ -1,7 +1,7 @@
 # Past Projects
 
 ## ShoreCasts
-### Tools to catch the perfect day
+### Catch the Perfect Day
 
 * Mobile application designed and developed by Shrimp Republic Studios to help boaters and saltwater fisherman plan their days on the water
 * Tidal forecasting for over 1300 tidal stations via NOAA Tides & Currents API
