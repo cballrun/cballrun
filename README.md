@@ -30,7 +30,7 @@
 * Contracted to manage team in Uzbekistan for MVP build, from app ideation to MVP completion
 * Guided every aspect of project from UI design to API development (utilizing Riot & Steam/Valve APIs) for live & historical user statistics
 * Includes live match & lifetime user statistics for several e-sports games, user comments/posts/likes/follows/etc., teams, customized news feed based on game inventory
-* Utilizes React frontend and Go backend
+* Utilizes React front-end and Go back-end
 
 ![myNewsSmall](https://github.com/cballrun/cballrun/assets/106977961/a22a66c6-a3fa-416b-a01d-a052c077e0b7) ![dotaStatsSmall](https://github.com/cballrun/cballrun/assets/106977961/65f87399-e3e0-4984-8e52-6d9c7cfc6cf4) ![myGamesSmall](https://github.com/cballrun/cballrun/assets/106977961/217c69de-fbe7-4c16-9540-f4ebf6f58e68)
 
