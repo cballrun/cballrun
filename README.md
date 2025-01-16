@@ -1,4 +1,4 @@
-# Shrimp Republic Studios Projects
+# Past Projects
 
 ## ShoreCasts
 ### Tools to catch the perfect day
