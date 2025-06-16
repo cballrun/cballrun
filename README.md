@@ -1,20 +1,20 @@
-# Past Projects
+# Current Project
 
 ## ShoreCasts
 ### Catch the Perfect Day
 
-* Mobile application designed and developed by Shrimp Republic Studios to help boaters and saltwater fisherman plan their days on the water
-* Tidal forecasting for over 1300 tidal stations via NOAA Tides & Currents API
-* Angler-centric weather forecasts via National Weather Service API, including calculations for lunar phase, sunrise/sunset times, and first/last light times
-* Private database server of over 10,000 marinas, bait shops, and boat ramps along the US coastline, built utilizing web scraping
-* React Native/TypeScript front-end hosted on App Store & Play Store
-* Rails/GraphQL back-end hosted on AWS
+* Generates full-day AI fishing plans up to a week in advance by fusing NOAA tides, NWS weather, and artificial reef data, helping inshore anglers target and land more fish
+* Streams 7-day tidal forecasts for 3,000+ NOAA stations with sub-300 ms average latency
+* Delivers 7-day angler-centric weather forecasts with in-app calculations for lunar phase, sunrise/sunset, and first/last light for bite-time precision
+* Houses a back-end database of 16,000+ coastal artificial reefs, marinas, bait shops, and boat ramps
+* Built with **React Native & TypeScript** front-end (App Store + Play Store) and **Rails/GraphQL** back-end on **AWS** (ECS, RDS, S3, CodePipeline, EC2, CloudWatch) integrated with **OpenAI**
 
 <img src="https://github.com/user-attachments/assets/3813009c-1251-48f2-8012-641dcbc0d3d0" height="537px"> <img src="https://github.com/user-attachments/assets/7f1dba03-9a92-4fdd-a418-322b266f63f3" height="537px"> <img src="https://github.com/user-attachments/assets/24a285b4-52f1-4125-9929-3d78dd330d74" height="537px">
 
+# Past Professional Work
+
 ## Chessmeito
 ### Chess puzzles drawn from actual professional matches!
-
 
 * Contracted for complete overhaul of UI, hosting architecture, & subscription architecture
 * React Native frontend hosted on App Store & Play Store
